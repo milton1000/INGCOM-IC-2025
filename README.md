@@ -1,1 +1,2 @@
-# INGCOM-IC-2025
+Nombre: Mauro Fermin
+Alias en GitHub: mfermindev
